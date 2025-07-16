@@ -56,7 +56,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/skkuhg/intellimatch-pro.git
+   git clone https://github.com/skkuhg/intellimatch-pro.git](https://github.com/skkuhg/IntelliMatch-Pro-LangChain-LLM.git
    cd intellimatch-pro
    ```
 
