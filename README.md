@@ -56,8 +56,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/skkuhg/intellimatch-pro.git](https://github.com/skkuhg/IntelliMatch-Pro-LangChain-LLM.git
-   cd intellimatch-pro
+   git clone https://github.com/skkuhg/IntelliMatch-Pro-LangChain-LLM.git
+   cd IntelliMatch-Pro-LangChain-LLM
    ```
 
 2. **Install dependencies**
